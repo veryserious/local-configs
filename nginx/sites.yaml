@@ -1,0 +1,4 @@
+sites:
+  example:
+    hosts:
+      - example.local
